@@ -1,11 +1,7 @@
-<h2 align="left">Hi 👋! My name is Sunny Kumar, and I'm a DevOps Infrastructure (Data Center) Engineer.</h2>
+<h2 align="left">Hi 👋! I'm Sunny Kumar, a DevOps Infrastructure (Data Center) Engineer.</h2>
 
 <p align="left">
-I am a seasoned DevOps Infrastructure Engineer specializing in building and managing robust data center solutions. My expertise lies in automating workflows, optimizing infrastructure, and ensuring seamless integration between development and operations. I have a strong foundation in the MERN stack, Data Structures and Algorithms (DSA), and advanced scripting capabilities in Python and C++.
-</p>
-
-<p align="left">
-As a continuous learner, I am always exploring emerging technologies and trends in cloud computing, containerization, and infrastructure as code (IaC). I enjoy collaborating with teams to solve complex challenges and deliver high-impact solutions in fast-paced environments.
+I specialize in building efficient data center solutions and automating workflows. With expertise in MERN stack, DSA, C++, Python, and DevOps tools, I focus on delivering scalable and reliable systems.
 </p>
 
 ---
@@ -22,16 +18,13 @@ As a continuous learner, I am always exploring emerging technologies and trends 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
 </div>
 
 ---
@@ -46,6 +39,19 @@ As a continuous learner, I am always exploring emerging technologies and trends 
 
 ### 🌐 **Connect with Me**
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="https://www.linkedin.com/in/sunny-kumar-0812b1213/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:sunnykr098765@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://leetcode.com/u/sunny______kr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+  </a>
+  <a href="https://www.codechef.com/users/sunny_kr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodeChef logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sunny______kr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksforGeeks logo" />
+  </a>
 </div>
