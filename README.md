@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sunny Kumar, a DevOps Infrastructure (Data Center) Engineer.</h2>
 
-<p align="left">
-I specialize in building efficient data center solutions and automating workflows. With expertise in MERN stack, DSA, C++, Python, and DevOps tools, I focus on delivering scalable and reliable systems.
-</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&background=2D2A2A00&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B!+I'm+Sunny+Kumar;DevOps+Infrastructure+%28Data+Center%29+Engineer;MERN+Stack+%7C+C%2B%2B+%7C+Python+%7C+DevOps;Passionate+about+Automation+%26+Scalability)](https://git.io/typing-svg)
 
